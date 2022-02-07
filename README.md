@@ -1,2 +1,2 @@
 # cars
-Project to create cars
+Project to create portal for car resales
